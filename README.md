@@ -27,7 +27,7 @@ Recent Master of Computer Science graduate from Algoma University, Canada (Dec 2
 
 ## 📁 Featured Project
 
-### **E-Commerce REST API | Spring Boot**
+### ** REST API | Spring Boot**
 *A full-featured backend system demonstrating modern Java development practices*
 
 **Core Features:**
