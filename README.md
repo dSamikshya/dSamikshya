@@ -1,5 +1,5 @@
-# portfolio-2026
-# Samikshya Dhakal | Backend Developer Portfolio
+
+# Samikshya Dhakal |  Java Backend Developer 
 
 ## 👋 About Me
 Recent Master of Computer Science graduate from Algoma University, Canada (Dec 2025). Transitioning from comprehensive computer science education to specialized backend development with Java Spring Boot. Passionate about building scalable, secure, and efficient server-side applications.
