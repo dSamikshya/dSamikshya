@@ -1,117 +1,96 @@
+# Samikshya Dhakal | Java Backend Developer
 
-# Samikshya Dhakal |  Java Backend Developer 
-
-## 👋 About Me
-Recent Master of Computer Science graduate from Algoma University, Canada (Dec 2025). Transitioning from comprehensive computer science education to specialized backend development with Java Spring Boot. Passionate about building scalable, secure, and efficient server-side applications.
-
-## 🎯 Current Focus
-**Mastering Enterprise Java Development:**
-- Building production-ready REST APIs with Spring Boot
-- Implementing secure authentication and authorization
-- Learning cloud deployment and containerization
-- Understanding microservices architecture patterns
-
-## 🛠️ Technical Stack
-
-### **Backend Development**
-`Java 17` `Spring Boot` `Spring Security` `REST APIs` `Maven`
-
-### **Databases & ORM**
-`PostgreSQL` `MySQL` `Spring Data JPA` `Database Design`
-
-### **DevOps & Tools**
-`Docker` `Git` `Postman` `IntelliJ IDEA` `Linux`
-
-### **Concepts & Practices**
-`Object-Oriented Design` `Design Patterns` `API Design` `Testing` `Agile/Scrum`
-
-## 📁 Featured Project
-
-### ** REST API | Spring Boot**
-*A full-featured backend system demonstrating modern Java development practices*
-
-**Core Features:**
-- 🔐 JWT-based authentication with Spring Security
-- 📦 Product catalog with search and filtering
-- 🛒 Shopping cart and order management system
-- 👥 Role-based access control (Admin/Customer)
-- 📊 Database design with PostgreSQL
-
-**Technical Implementation:**
-- Layered architecture (Controller → Service → Repository)
-- Comprehensive error handling with custom exceptions
-- Input validation and sanitization
-- Docker containerization for easy deployment
-- API documentation with Swagger/OpenAPI
-
-**Learning Outcomes:**
-- Practical application of Spring Boot ecosystem
-- Understanding of secure API development
-- Experience with database design and optimization
-- Deployment and containerization skills
-
-**Repository:**[ (https://github.com/dSamikshya/portfolio-2026)]
-## 🎓 Education
-**Master of Computer Science**  
-*Algoma University, Canada*  
-*Graduated: December 2025*
-
-**Bachelor of Computer Science**  
-*Tribhuvan University, Nepal*  
-*Graduated: 2023*
-
-## 💡 What I Bring to a Development Team
-
-### **From Academic to Professional:**
-1. **Strong CS Foundation** – Recent graduate with up-to-date knowledge of algorithms, data structures, and system design
-2. **Quick Learner** – Demonstrated ability to master complex technical concepts rapidly
-3. **Security-Conscious** – Background in security principles for building robust applications
-4. **Cloud-Aware** – Understanding of modern deployment and scalability considerations
-
-### **Development Philosophy:**
-"I believe in writing clean, maintainable code with thorough testing. I approach problems systematically, research best practices, and implement solutions that balance performance, security, and maintainability."
-
-## 🚀 Project Roadmap
-
-### **Completed:**
-- ✅ Spring Boot fundamentals and basic REST API
-- ✅ JWT authentication implementation
-- ✅ PostgreSQL database integration
-- ✅ Docker containerization basics
-
-### **In Progress:**
-- 🔄 Advanced Spring Security features
-- 🔄 Comprehensive testing suite (JUnit + Mockito)
-- 🔄 API documentation with Swagger
-
-### **Next Steps:**
-- 📅 AWS/Azure deployment
-- 📅 CI/CD pipeline setup
-- 📅 Microservices architecture exploration
-
-## 🌍 Job Search Status
-
-**Seeking:** Junior Backend Developer, Java Developer, or Associate Software Engineer roles  
-**Location:** Currently in Alberta, open to relocation anywhere in Canada  
-**Work Authorization:** Eligible for Post-Graduation Work Permit (PGWP)  
-**Availability:** Immediate start for full-time positions  
-**Remote/Hybrid:** Open to all work arrangements
-
-## 📫 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/samikshya-dhakal-780761211
-- **Email:** samidhakal245@gmail.com
-- **GitHub:** https://github.com/dSamikshya
-- **Location:** Vegreville, Alberta | Open to Relocate
-
-## 📝 Note to Recruiters & Hiring Managers
-
-This portfolio represents my journey from academic computer science to professional backend development. As a recent graduate, I'm building practical skills to complement my theoretical knowledge. I'm eager to contribute to a development team while continuing to learn and grow under mentorship.
-
-*I'm particularly interested in companies that value continuous learning and provide opportunities for recent graduates to develop their skills in a production environment.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samikshya-dhakal-780761211) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dSamikshya) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samidhakal245@gmail.com)
 
 ---
 
-**Last Updated:** February 2024  
-**Status:** Actively seeking backend development opportunities across Canada
+## 👋 About Me
 
+I am a **Master of Computer Science graduate from Algoma University, Canada (Dec 2025)**, transitioning into professional **Java Backend Development**. I build **secure, scalable, and efficient REST APIs** and have hands-on experience with **Spring Boot, PostgreSQL, and Docker**.  
+
+I aim to contribute to teams that value **clean code, secure architecture, and continuous learning**.
+
+---
+
+## 🎯 Current Focus
+
+- Building **production-ready REST APIs** with Spring Boot  
+- Implementing **secure authentication & authorization**  
+- Learning **cloud deployment (AWS/Azure) and containerization**  
+- Exploring **microservices architecture**  
+
+---
+
+## 🛠️ Technical Skills
+
+**Backend Development:** Java 17, Spring Boot, Spring Security, REST APIs, Maven  
+**Databases & ORM:** PostgreSQL, MySQL, Spring Data JPA, Database Design  
+**DevOps & Tools:** Docker, Git, Postman, IntelliJ IDEA, Linux  
+**Concepts & Practices:** Object-Oriented Design, Design Patterns, API Design, Testing (JUnit, Mockito), Agile/Scrum  
+
+---
+
+## 📁 Featured Projects
+
+### 1. Inventory Management API
+[Repository Link](https://github.com/dSamikshya/inventory-management-api)
+
+- Full-featured **backend system** demonstrating modern Java practices  
+- **Features:** JWT authentication, product catalog, shopping cart, role-based access  
+- **Tech:** Spring Boot, PostgreSQL, Docker, REST APIs  
+- **Learning:** Layered architecture, secure API development, containerization  
+
+---
+
+### 2. Food Donation System
+[Repository Link](https://github.com/dSamikshya/food-donation-system-on-spting-boot)
+
+- **API-based system** for managing food donations  
+- **Features:** Donor/Recipient management, order tracking, reporting  
+- **Tech:** Java, Spring Boot, PostgreSQL, RESTful API  
+- **Learning:** Database design, input validation, API testing  
+
+---
+
+## 🚀 Roadmap
+
+**Completed:**  
+✅ Spring Boot fundamentals & REST APIs  
+✅ JWT authentication  
+✅ PostgreSQL integration  
+✅ Docker containerization basics  
+
+**In Progress:**  
+🔄 Advanced Spring Security features  
+🔄 Unit & integration testing (JUnit + Mockito)  
+🔄 Swagger API documentation  
+
+**Next Steps:**  
+📅 Cloud deployment (AWS/Azure)  
+📅 CI/CD pipeline setup  
+📅 Microservices exploration  
+
+---
+
+## 🌍 Job Search Status
+
+- **Seeking Roles:** Junior Backend Developer, Java Developer, Associate Software Engineer  
+- **Location:** Alberta, open to relocation across Canada  
+- **Work Authorization:** Eligible for PGWP  
+- **Availability:** Immediate full-time  
+- **Work Arrangement:** Remote / Hybrid / On-site  
+
+---
+
+## 💡 What I Bring
+
+- Strong CS foundation and up-to-date knowledge in **algorithms, data structures, and system design**  
+- Quick learner, capable of **mastering complex technical concepts rapidly**  
+- Security-conscious and cloud-aware developer  
+- Passion for writing **clean, maintainable, and tested code**  
+
+---
+
+_Last Updated: February 2026_
