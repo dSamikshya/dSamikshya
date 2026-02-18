@@ -84,25 +84,16 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dsamikshya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsamikshya&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsamikshya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dsamikshya&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 💼 Professional Skills
 
@@ -170,7 +161,8 @@ public class BackendDeveloper {
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler)
+
 
 </div>
 
@@ -184,10 +176,6 @@ public class BackendDeveloper {
 
 </div>
 
----
 
-<div align="center">
-  
-**Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”** — Martin Fowler
 
-</div>
+
