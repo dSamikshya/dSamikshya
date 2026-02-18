@@ -11,8 +11,9 @@
 ## 👨‍💻 About Me
 
 🎓 **Education:**
-- 🎯 Bachelor's in Computer Application (2026)
-- 📚 Pursuing Master's in Computer Science
+- 📚 Master's in Computer Science
+- 🎯 Bachelor's in Computer Application 
+
 
 💼 **Current Focus:**
 - 🔭 Building enterprise-level **REST APIs** with Spring Boot
