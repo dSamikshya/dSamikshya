@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 🎓 **Education:**
-- 📚 Master's in Computer Science
-- 🎯 Bachelor's in Computer Application 
+- 📚 Master's in Computer Science (Canada)
+- 🎯 Bachelor's in Computer Application (Nepal)
 
 
 💼 **Current Focus:**
