@@ -96,40 +96,6 @@
 
 
 
-## 💼 Professional Skills
-
-```java
-public class BackendDeveloper {
-    
-    private final String name = "Samikshya Dhakal";
-    private final String role = "Backend Developer";
-    
-    private String[] expertise = {
-        "RESTful API Development",
-        "Microservices Architecture",
-        "Database Design & Optimization",
-        "Authentication & Authorization (JWT, OAuth2)",
-        "API Documentation (Swagger/OpenAPI)",
-        "Version Control (Git/GitHub)",
-        "Agile Development Methodologies"
-    };
-    
-    private String[] currentlyLearning = {
-        "Spring Cloud",
-        "Docker & Kubernetes",
-        "AWS Cloud Services",
-        "Redis Caching",
-        "Kafka Message Queues"
-    };
-    
-    public void sayHello() {
-        System.out.println("Thanks for visiting my profile! Let's build something amazing together!");
-    }
-}
-```
-
----
-
 ## 🎯 What I'm Working On
 
 - 🚀 Building scalable **Inventory Management System** with advanced features
