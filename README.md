@@ -137,7 +137,7 @@
 
 <div align="center">
   
-### ⭐️ Show some ❤️ by starring some of the repositories!
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dsamikshya&color=blueviolet&style=for-the-badge)
 
