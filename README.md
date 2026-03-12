@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samikshya Dhakal
+# Hi 👋, I'm Samikshya Dhakal.
 
 <div align="center">
   
