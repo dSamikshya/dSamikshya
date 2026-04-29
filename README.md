@@ -116,15 +116,6 @@
 
 ---
 
-## 🎯 What I'm Working On
-
-- 🚀 Building a full-stack **Inventory Management System** (Spring Boot + Angular)
-- 📖 Learning **Microservices** architecture patterns
-- 🔐 Implementing **OAuth2** and advanced security features
-- ☁️ Exploring **Cloud deployment** with AWS/Azure
-- 📊 Adding **Analytics & Reporting** modules to projects
-
----
 
 ## 📈 Activity Graph
 
